@@ -22,7 +22,8 @@ shot();
 void update(){
 
 }
-void shot(){
+void shot(int ball){
+	this.bullet = ball;
 }
 
 }
