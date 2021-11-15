@@ -9,7 +9,6 @@ void update(){
 
 }
 void shot(){
-	
 }
 
 }
